@@ -5,11 +5,15 @@ document.getElementById("btn-tarea-1").onclick = function () {
 };
 
 document.getElementById("btn-tarea-2").onclick = function () {
-    console.log('prueba');
     location.href = "https://neroangello.github.io/tarea-2-front-end/";
 };
 
 document.getElementById("btn-tarea-3").onclick = function () {
-    console.log('prueba');
     location.href = "https://neroangello.github.io/tarea-3-front-end/";
 };
+
+document.getElementById("btn-tarea-5").onclick = function () {
+    location.href = "https://neroangello.github.io/tarea-5-front-end/";
+};
+
+
