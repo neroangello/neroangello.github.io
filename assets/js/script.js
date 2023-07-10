@@ -28,4 +28,7 @@ document.getElementById("btn-tarea-8").onclick = function () {
     location.href = "https://neroangello.github.io/tarea-8-front-end/";
 };
 
+document.getElementById("btn-tarea-9").onclick = function () {
+    location.href = "https://neroangello.github.io/tarea-9-front-end/";
+};
 
