@@ -32,3 +32,8 @@ document.getElementById("btn-tarea-9").onclick = function () {
     location.href = "https://neroangello.github.io/tarea-9-front-end/";
 };
 
+document.getElementById("btn-tarea-10").onclick = function () {
+    location.href = "https://neroangello.github.io/transportes/";
+};
+
+
